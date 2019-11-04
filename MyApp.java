@@ -9,6 +9,6 @@ public class MyApp
 {
     public static void main(String[] args)
     {
-        //new MyMousePrame();
+        new MyMouseFrame();
     }
 }
